@@ -7,6 +7,7 @@ const styles = {
   container: "xl:max-w-[1280px] w-full",
   flexCenter: "flex justify-center items-center",
   flexStart: "flex justify-center items-start",
+  flexBetween: "flex justify-between items-center",
   paragraph:
     "font-montserrat font-normal text-lightWhite text-[18px] leading-[30.8px]",
   heading:
